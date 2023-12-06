@@ -1,3 +1,4 @@
+
 Bitcoin Price Tracker
 Bitcoin Price Tracker is a web application designed to help users monitor Bitcoin prices over different timeframes.
 
@@ -22,18 +23,17 @@ Copy code
 cd bitcoin-price-tracker
 Install Dependencies:
 
-bash
 Copy code
 npm install
 Usage
 Build the Project:
 
-bash
+arduino
 Copy code
 npm run build
 Start the Application:
 
-bash
+sql
 Copy code
 npm start
 Access the Application:
@@ -52,7 +52,7 @@ Copy code
 git checkout -b feature/your-feature-name
 Make Changes and Commit:
 
-bash
+sql
 Copy code
 git commit -m 'Add some feature'
 Push to the Branch:
@@ -61,6 +61,9 @@ bash
 Copy code
 git push origin feature/your-feature-name
 Submit a Pull Request.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 Vue.js - The JavaScript framework used.
