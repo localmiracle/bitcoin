@@ -1,71 +1,22 @@
+# Bitcoin Price Tracker
 
-Bitcoin Price Tracker
-Bitcoin Price Tracker is a web application designed to help users monitor Bitcoin prices over different timeframes.
+Bitcoin Price Tracker is a web application that allows users to track the price of Bitcoin over different periods.
 
-Features
-Timeframe Options: View Bitcoin prices for a day, week, month, or year.
-Custom Period: Choose a custom period to track Bitcoin prices.
-User-Friendly Interface: Simple and intuitive design for ease of use.
-Getting Started
-Prerequisites
-Ensure that you have Node.js installed on your machine.
+## Features
 
-Installation
-Clone the Repository:
+- View Bitcoin price for a day, week, month, or year.
+- Select a custom period to track Bitcoin price.
+- Simple and easy-to-use interface.
 
-bash
-Copy code
-git clone https://github.com/your-username/bitcoin-price-tracker.git
-Navigate to the Project Directory:
+## Getting Started
 
-bash
-Copy code
-cd bitcoin-price-tracker
-Install Dependencies:
+### Prerequisites
 
-Copy code
-npm install
-Usage
-Build the Project:
+- [Node.js](https://nodejs.org/) installed on your machine.
 
-arduino
-Copy code
-npm run build
-Start the Application:
+### Installation
 
-sql
-Copy code
-npm start
-Access the Application:
+1. Clone the repository:
 
-Open your browser and go to http://localhost:3000 to use the Bitcoin Price Tracker.
-
-Contributing
-If you'd like to contribute to this project, please follow these steps:
-
-Fork the Repository.
-
-Create a New Branch:
-
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Make Changes and Commit:
-
-sql
-Copy code
-git commit -m 'Add some feature'
-Push to the Branch:
-
-bash
-Copy code
-git push origin feature/your-feature-name
-Submit a Pull Request.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Acknowledgments
-Vue.js - The JavaScript framework used.
-Nuxt.js - The Vue.js framework for server-side rendering.
-Vue Chart.js - Vue.js wrapper for Chart.js.
+   ```bash
+   git clone https://github.com/your-username/bitcoin-price-tracker.git
