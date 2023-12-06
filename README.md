@@ -20,8 +20,12 @@ Bitcoin Price Tracker is a web application that allows users to track the price 
 
    ```bash
    git clone https://github.com/your-username/bitcoin-price-tracker.git
+   ```
 
-### Navigate to the project directory:
+### Navigate to the project directory: 
 
    ```bash
    cd bitcoin-price-tracker
+```
+
+### Install dependencies:
