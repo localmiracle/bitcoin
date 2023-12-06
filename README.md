@@ -22,18 +22,18 @@ Copy code
 cd bitcoin-price-tracker
 Install Dependencies:
 
-```bash
+bash
 Copy code
 npm install
 Usage
 Build the Project:
 
-```bash
+bash
 Copy code
 npm run build
 Start the Application:
 
-```bash
+bash
 Copy code
 npm start
 Access the Application:
@@ -47,17 +47,17 @@ Fork the Repository.
 
 Create a New Branch:
 
-```bash
+bash
 Copy code
 git checkout -b feature/your-feature-name
 Make Changes and Commit:
 
-```bash
+bash
 Copy code
 git commit -m 'Add some feature'
 Push to the Branch:
 
-```bash
+bash
 Copy code
 git push origin feature/your-feature-name
 Submit a Pull Request.
