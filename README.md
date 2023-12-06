@@ -12,7 +12,7 @@ Ensure that you have Node.js installed on your machine.
 Installation
 Clone the Repository:
 
-bash
+```bash
 Copy code
 git clone https://github.com/your-username/bitcoin-price-tracker.git
 Navigate to the Project Directory:
